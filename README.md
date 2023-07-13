@@ -1,7 +1,7 @@
-# LBLS467
+# LBLS-516
 
 ## Data description
-To support the development of advanced methodologies in emerging sciences, data collection is crucial. In the field of education, data is also essential for conceptual frameworks like Learning Analytics (LA) or Intelligent Tutoring Systems (ITS). Previous studies have shown the effectiveness of academic data, such as predicting at-risk students and revealing learning strategies. However, there was a lack of publicly available data sets for benchmarking these experiments. To contribute to educational research and development, we conducted a series of programming courses and collected learning data from 467 students. The data set includes two well-designed learning systems and measurements of two well-defined learning strategies: Self-regulated Learning (SRL) and Strategy Inventory for Language Learning (SILL). This study summarizes this data set as a Learning Behavior and Learning Strategies data set (LBLS467), where 467 indicates the total number of students.
+To support the development of advanced methodologies in emerging sciences, data collection is crucial. In the field of education, data is also essential for conceptual frameworks like Learning Analytics (LA) or Intelligent Tutoring Systems (ITS). Previous studies have shown the effectiveness of academic data, such as predicting at-risk students and revealing learning strategies. However, there was a lack of publicly available data sets for benchmarking these experiments. To contribute to educational research and development, we conducted a series of programming courses and collected learning data from 516 students. The data set includes two well-designed learning systems and measurements of two well-defined learning strategies: Self-regulated Learning (SRL) and Strategy Inventory for Language Learning (SILL). This study summarizes this data set as a Learning Behavior and Learning Strategies data set (LBLS-516), where 516 indicates the total number of students.
 
 ## Check List
 | Class     | Participants | SRL Learning Motivation | SRL Learning Strategy | SILL | BookRoll | Viscode | Score |
@@ -15,7 +15,8 @@ To support the development of advanced methodologies in emerging sciences, data 
 | 1102-NCU  | 41           | V                       | V                     | V    | V        | V       | V     |
 | 1111-NCU  | 56           | V                       | V                     |      | V        | V       | V     |
 | 1111-NCCU | 59           |                         |                       |      | V        | V       | V     |
-| Record    | 467          | 304                     | 294                   | 254  | 461      | 452     | 467   | 
+| 1112-NCU  | 49           | V                       | V                     | V    | V        | V       | V     |
+| Record    | 516          | 347                     | 335                   | 296  | 473      | 504     | 467   | 
 
 
 ### Complete LOG and questionnaire data: 200 records
